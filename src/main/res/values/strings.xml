@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memoria</string>
+    <string name="next">Sig. Nivel</string>
+    <string name="n1">NIVEL 1</string>
+    <string name="n2">NIVEL 2</string>
+    <string name="gana">FELICITACIONES GANASTE</string>
+    <string name="pasn">FELICITACIONES siguiente nivel</string>
+    <string name="ptj">Puntaje: 0/4</string>
+</resources>
